@@ -1,10 +1,8 @@
-# Boobs - YOLO BBox Annotation Tool
-Fast and efficient BBox annotation for your images in YOLO, and now, VOC/COCO formats!
+# Noobs - YOLO BBox Annotation Tool
+Renaming this to NOOBs due to the sexist connotation of the older title
 
 ## INTRO
 To see why and for what this was created, please read [Boobs - YOLO BBox Annotation Tool](https://medium.com/@drainingsun/boobs-yolo-bbox-annotation-tool-96fb765d0036)
-
-![Sample](cute.png)
 
 ## USAGE
 1. Download the zip.
